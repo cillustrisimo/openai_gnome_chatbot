@@ -26,4 +26,5 @@ Then, you can look no further than Mr. Sneed! Have a sneedle-wee day!
 
 ---
 
-### Take advantage of the sweet gift of OpenAI, take advantage of fresh new perspectives. Take advantage of Mr. Sneed.
+### "Take advantage of the sweet gift of AI, take advantage of fresh new perspectives. Take advantage of Mr. Sneed."
+_-Industry Leading AI Researchers_
