@@ -67,4 +67,5 @@ class ChatbotWindow(QMainWindow):
 app = QApplication(sys.argv)
 qdarktheme.setup_theme()
 main_window = ChatbotWindow()
+main_window.setWindowTitle("Mr. Sneed Messenger")
 sys.exit(app.exec())
