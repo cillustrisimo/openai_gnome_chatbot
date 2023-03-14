@@ -2,11 +2,15 @@ from PyQt6.QtWidgets import QApplication, QMainWindow, QTextEdit, QLineEdit, QPu
 from PyQt6.QtGui import QIcon, QPixmap
 import sys
 import qdarktheme
+from backend import Chatbot
+import threading
 
 
 class ChatbotWindow(QMainWindow):
     def __init__(self):
         super().__init__()
+
+        self.chatbot = Chatbot()
 
         self.setMinimumSize(700, 500)
 
@@ -16,9 +20,11 @@ class ChatbotWindow(QMainWindow):
 
         self.input_field = QLineEdit(self)
         self.input_field.setGeometry(10, 455, 680, 35)
+        self.input_field.returnPressed.connect(self.send_message)
 
         self.button = QPushButton(QIcon("icons/send.png"), "", self)
         self.button.setGeometry(650, 456, 35, 30)
+        self.button.clicked.connect(self.send_message)
 
         self.label = QLabel(self)
         self.sneed = QPixmap("icons/sneed.png")
@@ -42,6 +48,20 @@ class ChatbotWindow(QMainWindow):
         self.label3.move(500, 190)
 
         self.show()
+
+    def send_message(self):
+        user_input = self.input_field.text().strip()
+        self.chat_area.append(f"<p style='color:#bdc3c8'>Me: {user_input}</p>")
+        self.input_field.clear()
+        print(user_input)
+
+        thread = threading.Thread(target=self.get_bot_response, args=(user_input, ))
+        thread.start()
+
+    def get_bot_response(self, user_input):
+        response = self.chatbot.get_response(user_input)
+        self.chat_area.append(f"<p style='color:#bdc3c8'>Mr. Sneed: {response}</p>")
+        print(response)
 
 
 app = QApplication(sys.argv)
