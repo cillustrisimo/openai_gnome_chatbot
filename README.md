@@ -28,3 +28,5 @@ Then, you can look no further than Mr. Sneed! Have a sneedle-wee day!
 
 ### "Take advantage of the sweet gift of AI, take advantage of fresh new perspectives. Take advantage of Mr. Sneed."
 _-Industry Leading AI Researchers_
+
+****DISCLAIMER: Mr. Sneed has been created based off an inside joke, and as such the AI has been prompted to be a little unhinged. Please don't take any advice from Mr. Sneed seriously!
