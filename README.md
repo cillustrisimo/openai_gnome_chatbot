@@ -59,13 +59,13 @@ _-Industry Leading AI Researchers_
 
 Team Credits:
 
-<p><a href="github.com/cillustrisimo"> cillustrisimo </a> - <i>Team Lead, Head Engineer</i> <br>
+<p><a href="https://github.com/cillustrisimo"> cillustrisimo </a> - <i>Team Lead, Head Engineer</i> <br>
 
 
-<a href="github.com/RX-S"> RX-S </a> - <i>Code Sensei, DALLE-2 Wrangler</i><br>
+<a href="https://github.com/RX-S"> RX-S </a> - <i>Code Sensei, DALLE-2 Wrangler</i><br>
 
 
-<a href="github.com/passionfwend"> passionfriend </a> - <i>Idea Engineer, Sound Architect</i></p> <b>
+<a href="https://github.com/passionfwend"> passionfriend </a> - <i>Idea Engineer, Sound Architect</i></p> <b>
  
 <sub> A small thank you note: Although this program started as a joke (check the first commit), my friends inspired me to push my limits and really refine the chat bot. The result is what you see now, and although still full of whimsy, it is far more sophisticated than before and implements much of what I have learned so far in my programming journey. This would not have been possible without the people above. </sub>
 
