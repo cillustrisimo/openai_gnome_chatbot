@@ -6,7 +6,7 @@
 Mr. Sneed is a whimsical gnome chatbot built using <a href="https://github.com/openai/openai-python"> OpenAi's API</a> and the ChatGPT 
 (GPT 3.5-Turbo) model. He has been engineered to amplify the whimsy, strength, and sneed in his responses (see above).
 
-Utilizing natural language processing alongside ChatGPT, Mr. Sneed responses come to life as he exhibits
+Utilizing natural language processing alongside ChatGPT, Mr. Sneed's responses come to life as he exhibits
 a range of emotions and audible responses.
 
 ![neutral](examples/sneed_normal.PNG)
