@@ -43,7 +43,7 @@ Or looking to improve your programming? (I sure know I am!)
 
 
 
-Mr. Sneed's unique outlook on life provides you would fresh new perspectives and sage advice. If you're looking
+Mr. Sneed's unique outlook on life provides you with fresh new perspectives and sage advice. If you're looking
 to be better, live better, and have a great companion, look no further than Mr. Sneed! 
 
 Have a sneedle-wee day!
