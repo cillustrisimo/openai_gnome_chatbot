@@ -54,6 +54,9 @@ Have a sneedle-wee day!
 ### "Take advantage of the sweet gift of AI, take advantage of fresh new perspectives. Take advantage of Mr. Sneed."
 _-Industry Leading AI Researchers_
 
+--- 
+
+<br>
 
 Team Credits:
 
@@ -63,7 +66,9 @@ Team Credits:
 <a href="github.com/RX-S"> RX-S </a> - <i>Code Sensei, DALLE-2 Wrangler</i><br>
 
 
-<a href="github.com/passionfwend"> passionfriend </a> - <i>Idea Engineer, Sound Architect</i></p>
+<a href="github.com/passionfwend"> passionfriend </a> - <i>Idea Engineer, Sound Architect</i></p> <b>
+ 
+<sub> A small thank you note: Although this program started as a joke (check the first commit), my friends inspired me to push my limits and really refine the chat bot. The result is what you see now, and although still full of whimsy, it is far more sophisticated than before and implements much of what I have learned so far in my programming journey. This would not have been possible without the people above. </sub>
 
 
-***DISCLAIMER: Mr. Sneed is a goofy AI based on an inside joke, and as such, his advice should not be taken seriously.
+<sub><sup>***DISCLAIMER: Mr. Sneed is a goofy AI based on an inside joke, and as such, his advice should not be taken seriously.</sub></sup>
