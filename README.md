@@ -14,8 +14,7 @@ a range of emotions and audible responses.
 ---
 
 # Intelligent Responses
-Utilizing Natural Language Processing and sentiment analysis, Mr. Sneed responds comes to life when responding to you, exhibiting
-a range of emotions and audible responses.
+When you talk to Mr. Sneed, the program runs a sentiment analysis of your conversation. This prompts Mr. Sneed to react alongside his OpenAI crafted responses in realtime.
 
 For example, Mr. Sneed can be neutral:
 
