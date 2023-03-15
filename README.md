@@ -9,7 +9,7 @@ Mr. Sneed is a whimsical gnome chatbot built using <a href="https://github.com/o
 Utilizing Natural Language Processing and sentiment analysis, Mr. Sneed responds comes to life when responding to you, exhibiting
 a range of emotions and audible responses.
 
-![neutral](examples/sneed_normal.png)
+![neutral](examples/sneed_normal.PNG)
 
 ---
 
@@ -19,15 +19,15 @@ a range of emotions and audible responses.
 
 For example, Mr. Sneed can be neutral:
 
-![job](examples/sneed_neutral.png)
+![job](examples/sneed_neutral.PNG)
 
 When you say harmful things to Mr. Sneed, he can be fearful:
 
-![economy](examples/sneed_fearful.png)
+![economy](examples/sneed_fearful.PNG)
 
 And as a whimsical gnome, Mr. Sneed of course can feel joy:
 
-![CTO](examples/sneed_happy.png)
+![CTO](examples/sneed_happy.PNG)
 
 ---
 # Mr. Sneed Use Cases
@@ -36,11 +36,11 @@ Mr. Sneed can be used to greatly expand your knowledge, for example:
 
 What if your looking to understand some wacky, post-modernist-structuralist-marxist-anti-Hegelian philosphy? 
 
-![philosophy](examples/sneed_philosophy.png)
+![philosophy](examples/sneed_philosophy.PNG)
 
 Or looking to improve your programming? (I sure know I am!)
 
-![programming](examples/sneed_programmer.png)
+![programming](examples/sneed_programmer.PNG)
 
 
 
