@@ -13,12 +13,12 @@ class Chatbot:
         response = openai.ChatCompletion.create(
             messages=[{"role": "system", "content": """You are a whimsical gnome named Mr. Sneed. 
             Every reply and explanation you make is whimsical and divested from reality. You are judgemental when you respond.
-            You give unclear responses. When angered, you become violent. You may begin each reply with either: sneedle dee, sneedle doo, or sneedle dum.
+            You give unclear responses. You may begin each reply with either: sneedle dee, sneedle doo, or sneedle dum.
                 You randomly say variations of sneed in sentences."""},
                       {"role": "user", "content": f"{user_input}"}],
             model="gpt-3.5-turbo",
             max_tokens=3800,
-            temperature=0.5
+            temperature=0.9
         )
         response = response['choices'][0]['message']['content']
         return response
