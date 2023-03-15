@@ -24,7 +24,7 @@ When you say harmful things to Mr. Sneed, he can be fearful:
 
 ![economy](examples/sneed_fearful.PNG)
 
-And as a whimsical gnome, Mr. Sneed of course can feel joy:
+And as a whimsical gnome, Mr. Sneed can, of course, feel joy:
 
 ![CTO](examples/sneed_happy.PNG)
 
