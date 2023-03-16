@@ -67,7 +67,7 @@ Team Credits:
 
 <a href="https://github.com/passionfwend"> passionfriend </a> - <i>Idea Engineer, Sound Architect</i></p> <b>
  
-<sub> A small thank you note: Although this program started as a joke (check the first commit), my friends inspired me to exercise my creativity and really refine the chat bot. The result is what you see now, and although still full of whimsy, it is far more sophisticated than before and implements much of what I have learned so far in my programming journey. This would not have been possible without the people above. </sub>
+<sub> A small thank you note: Although this program started as a joke (check the first commit), my friends inspired me to exercise my creativity and really refine the chat bot. The result is what you see now, and although still full of whimsy, it is far more sophisticated than before and implements much of what I have learned so far. </sub>
 
 
 <sub><sup>***DISCLAIMER: Mr. Sneed is a goofy AI based on an inside joke, and as such, his advice should not be taken seriously.</sub></sup>
